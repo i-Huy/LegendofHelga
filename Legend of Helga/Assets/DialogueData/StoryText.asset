@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b0e6bed21b84ebfae85d7a7db12621, type: 3}
+  m_Name: StoryText
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"Oh hey, you''re awake! I found you on the shore and brought you here..."'
+  - '"I''m Wally the Whale, you can call me Bob. Welcome to Lorule Island."'
+  - '"..."'
+  - '"What''s that? You have a sister... Helga? That''s rough buddy."
+
+'
+  - '"..."'
+  - '"Oh, you actually like her? Well..."'
+  - '"A loose "Canon" of a guy might have taken her. He was stable until he was fired
+    from his last job for blowing up at his superiors..."'
+  - '"I would suggest you arm yourself by taking on the trials  before confronting
+    him. He''s a bit hard-headed, so you''ll want to be prepared for conflict."'
+  - '"When you''re ready, head to the gates across the river. If you''re feeling
+    brave, turn around and confront the boss directly."'
+  - '"Stick around for the controls tutorial. There''s a training dummy on your left,
+    which can be used for practice."'

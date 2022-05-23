@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b0e6bed21b84ebfae85d7a7db12621, type: 3}
+  m_Name: WindIsland_3
+  m_EditorClassIdentifier: 
+  dialogue:
+  - The way forward diverges in three directions...
+  - '(1) The Bravery Path begins from the flowering cherry tree.
+
+    (2) The Wisdom
+    Trial is accessible via the wind teleport next to this sign.
+
+    (3) The Sly
+    Shortcut is unlocked by wielding the power of <color=red>fire</color>.'
+  - '(Hint: The difficult paths leads to greater rewards.)'

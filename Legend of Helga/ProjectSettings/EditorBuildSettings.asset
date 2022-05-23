@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/MainMenu.unity
+    guid: b12cdce1987a1c14584d9e832d29f681
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/CreditsMenu.unity
+    guid: 6f49e4f4871d64f7d968eddd27a29b32
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/BeginningIsland.unity
+    guid: aa0f5f81baba4bf4fabc1f5c1a75fd92
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/FireContinent.unity
+    guid: 242f962a3d380464da92708a4175ffcc
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/WindContinent.unity
+    guid: 442b27a61a9e8a144bd7e1d773bd8da7
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/BossContinent.unity
+    guid: 68ec59ec341872d45ac6d2d0fe888838
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/DeathMenu.unity
+    guid: 2d81d7995c72c4e18a758544696d5356
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/Credits.unity
+    guid: ddedca18a4d2f4a139f594c69c96525c
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/TwistEnding.unity
+    guid: c2af047e3bdd44b06b890564fb4b847c
+  - enabled: 1
+    path: Assets/Scenes/Active Scenes/EndMenu.unity
+    guid: 3350354caf083407abe91165a21ecee1
+  m_configObjects: {}

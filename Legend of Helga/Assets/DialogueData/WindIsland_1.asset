@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b0e6bed21b84ebfae85d7a7db12621, type: 3}
+  m_Name: WindIsland_1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Welcome to the wind island. Please keep in mind that attacking is forbidden on
+    this island.
+  - Platforms on this island are powered by the wind.
+  - Their colors dictate their behaviors...
+  - 'The <color=green>green</color> platforms are static.
+
+    The <color=blue>blue</color>
+    platforms can move.
+
+    The <color=red>red</color> platforms are fragile.'
+  - Observe, be patient, and jump!
+  - Reach the highest peak to grasp the power of the wind.
+  - '(Hint: You can respawn at the last activated checkpoint by using Escape -> Respawn.)'

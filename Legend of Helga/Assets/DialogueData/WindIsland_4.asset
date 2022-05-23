@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b0e6bed21b84ebfae85d7a7db12621, type: 3}
+  m_Name: WindIsland_4
+  m_EditorClassIdentifier: 
+  dialogue:
+  - The Wisdom Trial will test your wit. Learn from your mistakes.
+  - 'Hints:
+
+    (1) Observe the destination of the moving platforms.
+
+    (2) Try
+    to figure out which wind teleporters are a pair.
+
+    (3) Patience shall prevail.'
