@@ -3,6 +3,10 @@
 **Updated:** 4.24.22  
 **Version:** Final
 
+Trailer Video:: https://drive.google.com/file/d/18-s1FULQe8xhfJYEaxstKMCYA3360THJ/view?usp=sharing
+
+Gameplay Video: https://drive.google.com/file/d/1rmByqjyhqBB4piYdoYNQ_IaPnHca7onC/view?usp=sharing
+
 ### 1. Starter Scene
 - **MainMenu**
 
